@@ -1,0 +1,46 @@
+<Melody>
+	<KeyTrack Id="0">
+		<Notes>
+			<MidiNoteEvent Time="0" Duration="1" Velocity="100" VelocityDeviation="0"
+				OffVelocity="64" Probability="1" IsEnabled="true" NoteId="1" />
+			<MidiNoteEvent Time="8" Duration="1" Velocity="100" VelocityDeviation="0"
+				OffVelocity="64" Probability="1" IsEnabled="true" NoteId="2" />
+			<MidiNoteEvent Time="16" Duration="1" Velocity="100" VelocityDeviation="0"
+				OffVelocity="64" Probability="1" IsEnabled="true" NoteId="3" />
+			<MidiNoteEvent Time="24" Duration="1" Velocity="100" VelocityDeviation="0"
+				OffVelocity="64" Probability="1" IsEnabled="true" NoteId="4" />
+		</Notes>
+		<MidiKey Value="67" />
+	</KeyTrack>
+	<KeyTrack Id="1">
+		<Notes>
+			<MidiNoteEvent Time="9.5" Duration="0.75" Velocity="100" VelocityDeviation="0"
+				OffVelocity="64" Probability="1" IsEnabled="true" NoteId="5" />
+			<MidiNoteEvent Time="25.5" Duration="0.75" Velocity="100" VelocityDeviation="0"
+				OffVelocity="64" Probability="1" IsEnabled="true" NoteId="6" />
+		</Notes>
+		<MidiKey Value="73" />
+	</KeyTrack>
+	<KeyTrack Id="2">
+		<Notes>
+			<MidiNoteEvent Time="1.5" Duration="0.75" Velocity="100" VelocityDeviation="0"
+				OffVelocity="64" Probability="1" IsEnabled="true" NoteId="7" />
+			<MidiNoteEvent Time="17.5" Duration="0.75" Velocity="100" VelocityDeviation="0"
+				OffVelocity="64" Probability="1" IsEnabled="true" NoteId="8" />
+		</Notes>
+		<MidiKey Value="74" />
+	</KeyTrack>
+	<KeyTrack Id="3">
+		<Notes>
+			<MidiNoteEvent Time="1" Duration="0.5" Velocity="100" VelocityDeviation="0"
+				OffVelocity="64" Probability="1" IsEnabled="true" NoteId="9" />
+			<MidiNoteEvent Time="9" Duration="0.5" Velocity="100" VelocityDeviation="0"
+				OffVelocity="64" Probability="1" IsEnabled="true" NoteId="10" />
+			<MidiNoteEvent Time="17" Duration="0.5" Velocity="100" VelocityDeviation="0"
+				OffVelocity="64" Probability="1" IsEnabled="true" NoteId="11" />
+			<MidiNoteEvent Time="25" Duration="0.5" Velocity="100" VelocityDeviation="0"
+				OffVelocity="64" Probability="1" IsEnabled="true" NoteId="12" />
+		</Notes>
+		<MidiKey Value="80" />
+	</KeyTrack>
+</Melody>
